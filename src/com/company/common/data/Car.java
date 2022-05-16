@@ -1,4 +1,4 @@
-package com.company.data;
+package com.company.common.data;
 
 public class Car {
     private String name;

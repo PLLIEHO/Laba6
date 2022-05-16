@@ -1,4 +1,4 @@
-package com.company.data;
+package com.company.common.data;
 
 public class Coordinates {
     private float x = 0;
